@@ -3,9 +3,9 @@
 void main()
 {
     
-    printf("\n Your Name : Darshan");
+    printf("\n Your Name : Danish");
     printf("\n Your Age : 21");
-    printf("\n Your City : Rajkot");
+    printf("\n Your City : Wankaner");
     
     
    getch(); 
