@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()//main function
+void main()
 {
    
    int maths=75,sci=85,guj=67,hin=87,eng=56,total,avg;
@@ -13,5 +13,5 @@ void main()//main function
 
    printf("\n Percentage is : %d ",avg);    
     
-    getch();//terminate the program
+    getch();
 }    
