@@ -1,19 +1,16 @@
-#include<stdio.h>
-#include<conio.h>
-void main()
+#include<stdio.h>//header file
+#include<conio.h>//header file
+void main()//main function
 {
-    //pnr/100;
+        
+     printf("\n Details:");
     
-    float intrest,pri=60000,roi=6.5,n=5,total;
- 
-   intrest=pri*roi*n/100;
-   
-   printf("\nintrest is : %f",intrest);
-   total = pri+intrest;
+     printf("\n Krish: \t Flutter");
+     printf("\n Darshan: \t Flutter");
+     printf("\n Mukhtar: \t Python");
+     printf("\n Danish: \t Python");
     
-     printf("\n Total Amount is %f",total);
- 
- 
     
-    getch();
+    
+    getch();//terminate the program
 }    
