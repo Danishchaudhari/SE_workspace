@@ -1,6 +1,6 @@
-#include<stdio.h>//header file
-#include<conio.h>//header file
-void main()//main function
+#include<stdio.h>
+#include<conio.h>
+void main()
 {
         
      printf("\n Details:");
@@ -12,5 +12,5 @@ void main()//main function
     
     
     
-    getch();//terminate the program
+    getch();
 }    
